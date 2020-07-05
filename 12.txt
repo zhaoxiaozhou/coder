@@ -6,3 +6,4 @@ this is a commit from user
 this is a commit from user
 this is a commit from user 2
 this is a commit from user 2
+this is a commit from user 3
